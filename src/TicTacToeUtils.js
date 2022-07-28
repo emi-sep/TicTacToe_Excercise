@@ -27,6 +27,10 @@ class TicTacToeUtils {
     return data;
   }
 
+  TestEjercicio7_1 = function(){
+    console.log("commit1");
+  }
+
   /**
    * Sets the players array with the types supplied, and markers (x and o)
    * chosen at random
