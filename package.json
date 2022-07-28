@@ -4,8 +4,8 @@
   "description": "",
   "main": "tictactoe.js",
   "scripts": {
-    "play": "node tictactoe.js",
-    "test": "mocha tests/tests.js"
+    "play": "node src/tictactoe.js",
+    "test": "mocha tests/TicTacToeUtilsTests.js"
   },
   "repository": {
     "type": "git",
