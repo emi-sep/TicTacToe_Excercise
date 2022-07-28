@@ -63,6 +63,10 @@ class TicTacToeUtils {
   rotatePlayers = function(players) {
     players.push(players.shift());
   }
+
+  TestEjercicio7_2 = function(){
+    console.log("commit1");
+  }
 }
 
 module.exports = { TicTacToeUtils }
