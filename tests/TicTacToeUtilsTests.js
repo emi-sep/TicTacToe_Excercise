@@ -24,7 +24,7 @@ describe("the function", function () {
             '1 1'
         ]
         };
-    assert.notEqual(board, expectedBoard);
+    assert.notEqual(board, expectedBoard);//assert.notEqual(board, expectedBoard);assert.notEqual(board, expectedBoard);assert.notEqual(board, expectedBoard);assert.notEqual(board, expectedBoard);
   });
 });
 
