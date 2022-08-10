@@ -38,3 +38,14 @@ describe("compare tictactoe board size", function () {
   });
 });
 
+
+//var assert = require('assert');
+//describe("compare tictactoe board size", function () {
+  //it("works", function () {
+    //var ticTacToeUtils = new tictactoeUtils.TicTacToeUtils();
+    //var board = ticTacToeUtils.buildBoard(2);
+       // var expectedBoardSize = 2;
+        //let currentBoardSize = board.board.length;
+    //assert.equal(expectedBoardSize, currentBoardSize);
+  //});
+//});
